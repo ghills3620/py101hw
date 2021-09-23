@@ -11,9 +11,15 @@
 #Hello problem 1 from Week 2 Lesson 1.
 #```
 
+print('Hello problem 1 from Week 2 Lesson 1.')
+
+
 ## Pr 2
 
 #Explain why you should ALWAYS have a .gitignore file in your repo.
+
+""""" I could use help on this one. one of the only good reason I know is that you have information in a file that you
+ dont want to be public so you dont push it up or the file is to large"""""
 
 
 ## Pr 3
